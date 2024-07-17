@@ -1,2 +1,2 @@
-# Diabetes-Predictor-ML-Model
+# Diabetes-Predictor-Model
 CS 210 Project @ Rutgers University
